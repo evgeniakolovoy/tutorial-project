@@ -1,4 +1,3 @@
-Thisss is a messss
-leaarning Giiit
-Thiss file iss              brokkenn 
-
+This is a mess
+learning Git
+This file is broken
